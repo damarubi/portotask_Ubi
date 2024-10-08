@@ -580,3 +580,16 @@ ul.navlist li a:hover {
         justify-content: center;
     }
 }
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+article {
+    width: 100%;
+}
+
+aside {
+    width: 100%;
+}
